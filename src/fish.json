@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "image": "baku.jpg"
+    },
+    {
+      "id": 2,
+      "image": "belgrade.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "bucharest.jpg"
+    },
+    {
+      "id": 4,
+      "image": "budapest.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "kyiv.jpg"
+    },
+    {
+      "id": 6,
+      "image": "sofia.jpg"
+    },
+    {
+      "id": 7,
+      "image": "yerevan.jpg"
+    },
+    {
+      "id": 8,
+      "image": "zurich.jpg"
+    }
+  ]
+  
