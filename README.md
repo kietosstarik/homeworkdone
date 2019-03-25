@@ -1,8 +1,4 @@
-# Clicky-Game
-
-## Overview
-
-This is a memory game using React. The application's UI is split into four components.
+# Homework 15 Clicky-Game
 
 ## Technologies used
 
@@ -12,8 +8,6 @@ This is a memory game using React. The application's UI is split into four compo
 * CSS
 
 ## Website
-
-https://kimgomizzou.github.io/Clicky-Game/
 
 ## Copyright
 
